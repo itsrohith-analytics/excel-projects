@@ -9,4 +9,4 @@ This repository contains Excel-based dashboards and data analysis projects.
 - Conditional Formatting
 - Dashboard design
 ## Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard_overview.png)
+![Dashboard Screenshot](dashboard_overview.png)
